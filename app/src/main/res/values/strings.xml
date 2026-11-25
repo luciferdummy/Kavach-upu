@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kavach-UPI</string>
+    <string name="accessibility_service_label">Kavach-UPI Zero-Trust Shield</string>
+    <string name="accessibility_service_description">Monitors active UPI and banking app launches locally on-device to detect concurrent remote-access or screen-sharing sessions (such as AnyDesk or TeamViewer) and mounts a protective touch-blocking shield. Zero data ever leaves your device.</string>
+
+    <!-- Dashboard Header & Status -->
+    <string name="brand_subtitle">ON-DEVICE ZERO-TRUST PAYMENT SHIELD</string>
+    <string name="badge_offline">100% EDGE AUTONOMOUS • NO NETWORK</string>
+    <string name="status_armed_title">KAVACH ARMED</string>
+    <string name="status_armed_desc">Active dual-gear telemetry scanning UPI launches &amp; media-projection pipes.</string>
+    <string name="status_partial_title">SETUP REQUIRED</string>
+    <string name="status_partial_desc">Grant all three system privileges below to arm real-time remote-scam interception.</string>
+    <string name="status_threat_title">THREAT INTERCEPTED</string>
+    <string name="status_threat_desc">Active remote-access or screen-cast threat blocked via touch-absorbing shield.</string>
+
+    <!-- Navigation / Tabs -->
+    <string name="tab_shield">Command</string>
+    <string name="tab_targets">Protected</string>
+    <string name="tab_telemetry">Audit Log</string>
+
+    <!-- Permissions Section -->
+    <string name="section_permissions_title">Zero-Trust System Privileges</string>
+    <string name="perm_accessibility_title">Accessibility Window Guard</string>
+    <string name="perm_accessibility_desc">Detects UPI/Banking foreground windows &amp; inspects sensitive PIN/amount nodes (DFS depth ≤ 15).</string>
+    <string name="perm_usage_title">Usage &amp; AppOps Telemetry</string>
+    <string name="perm_usage_desc">Queries UsageStatsManager &amp; AppOps PROJECT_MEDIA to spot background screen-cast or AnyDesk/TeamViewer daemons.</string>
+    <string name="perm_overlay_title">Touch-Absorbing Overlay</string>
+    <string name="perm_overlay_desc">Mounts an instant glassmorphic shield that absorbs all remote taps and synthetic touch injections.</string>
+    <string name="btn_grant">Grant</string>
+    <string name="btn_granted">Active</string>
+    <string name="btn_configure">Manage</string>
+
+    <!-- Engine & Architecture Telemetry -->
+    <string name="section_engine_title">Edge Telemetry Engine</string>
+    <string name="metric_gear_label">Polling Gear</string>
+    <string name="metric_gear_low">IDLE • 1500ms</string>
+    <string name="metric_gear_high">COMBAT • 350ms</string>
+    <string name="metric_dfs_label">DFS Tree Cap</string>
+    <string name="metric_dfs_value">15 Layers (Recycled)</string>
+    <string name="metric_hysteresis_label">Hysteresis</string>
+    <string name="metric_hysteresis_value">2 Clean Cycles</string>
+    <string name="metric_tts_label">Bilingual TTS</string>
+    <string name="metric_tts_ready">EN-IN + HI-IN Ready</string>
+    <string name="metric_tts_init">Initializing Audio…</string>
+
+    <!-- Safety Drill / Live Overlay & TTS Verification -->
+    <string name="drill_card_title">Live Shield &amp; Bilingual Voice Drill</string>
+    <string name="drill_card_desc">Test the actual WindowManager touch-blocking glassmorphic overlay and English + Hindi voice siren right now to experience how Kavach-UPI intercepts a live scam.</string>
+    <string name="btn_run_drill">Trigger Live Shield Drill</string>
+    <string name="btn_test_voice">Test EN/HI Voice Alert</string>
+    <string name="drill_overlay_needed_hint">Enable Draw Over Other Apps or Accessibility Service first to mount the full-screen hardware overlay.</string>
+
+    <!-- Protected Targets Tab -->
+    <string name="targets_upi_header">Protected UPI &amp; Banking Targets</string>
+    <string name="targets_upi_sub">Opening any of these packages escalates coroutine tracking to High-Gear (350ms).</string>
+    <string name="targets_remote_header">Watched Remote-Access &amp; Screen-Share Signatures</string>
+    <string name="targets_remote_sub">Detected via UsageEvents foreground service timelines &amp; AppOps OPSTR_PROJECT_MEDIA.</string>
+    <string name="tag_installed">Installed</string>
+    <string name="tag_monitored">Signature Armed</string>
+
+    <!-- Telemetry / Audit Log Tab -->
+    <string name="log_header">On-Device Security Audit Trail</string>
+    <string name="log_clear">Clear</string>
+    <string name="log_empty_title">Zero-Trust Event Ring Buffer Ready</string>
+    <string name="log_empty_desc">Enable Accessibility &amp; Usage Access or trigger a Live Shield Drill to inspect real-time window transitions, DFS node recycling stats, and media-projection checks.</string>
+
+    <!-- Overlay Strings -->
+    <string name="overlay_badge">KAVACH-UPI ZERO-TRUST INTERCEPT</string>
+    <string name="overlay_title_en">CRITICAL SCAM ALERT: SCREEN SHARING DETECTED!</string>
+    <string name="overlay_title_hi">चेतावनी: आपकी स्क्रीन शेयर हो रही है! भुगतान तुरंत रोकें!</string>
+    <string name="overlay_body_en">Touch input to your payment app has been locked to block remote theft. Disconnect AnyDesk, TeamViewer, or screen casting immediately before entering your UPI PIN.</string>
+    <string name="overlay_body_hi">धोखाधड़ी से सुरक्षा के लिए सभी टच ब्लॉक कर दिए गए हैं। कृपया तुरंत स्क्रीन शेयरिंग बंद करें और अपना UPI पिन दर्ज न करें।</string>
+    <string name="overlay_btn_exit_payment">Exit Payment App Safely</string>
+    <string name="overlay_btn_mute_tts">Mute Voice Siren</string>
+    <string name="overlay_btn_end_drill">End Safety Drill &amp; Dismiss Shield</string>
+    <string name="hero_banner_content_desc">Kavach-UPI Zero-Trust Security Shield Illustration</string>
+</resources>

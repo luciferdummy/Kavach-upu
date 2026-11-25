@@ -1,0 +1,6 @@
+{
+  "name": "Kavach-UPI",
+  "description": "On-device zero-trust Android security shield against remote-access financial scams with touch-blocking glassmorphic overlay and bilingual voice alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
